@@ -1,6 +1,6 @@
 # 📰 React News App
 
-A responsive and lightweight News App built with React and TailwindCSS that fetches real-time news using the [GNews API](https://gnews.io/). It supports navigation across various news categories like General, Politics, Sports, Technology, and more.
+A responsive and lightweight News App built with React and TailwindCSS that fetches real-time news using the [News API](https://newsapi.org/). It supports navigation across various news categories like General, Politics, Sports, Technology, and more.
 
 ## ✨ Features
 
