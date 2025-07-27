@@ -13,7 +13,7 @@ A responsive and lightweight News App built with React and TailwindCSS that fetc
 ---
 
 ## 📸 Demo
-
+![NewsX App Screenshot](./demo.png)
 
 
 ---
